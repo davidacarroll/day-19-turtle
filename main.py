@@ -41,9 +41,9 @@ while is_race_on:
             is_race_on = False
 
 if user_bet == winner:
-    print(f"You Win! The winner is {winner}")
+    print(f"You Win!!! The winner is {winner}")
 else:
-    print(f"You Lose! The winner is {winner}")
+    print(f"You Lose!!! The winner is {winner}")
 screen.exitonclick()
 
 
